@@ -1,0 +1,29 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Spicy Shrimp Dan Dan Noodle Ramen</title>
+  </head>
+  <body>
+    <h1>Spicy Shrimp Dan Dan Noodle Ramen</h1>
+    <img src="../images/spicyshrimpdandan.avif" alt="Spicy Shrimp Dan Dan Noodle Ramen" height="25%" width="25%">
+    <br />
+    <a href="https://www.hellofresh.com/recipes/spicy-shrimp-dan-dan-noodle-ramen-65c3ec506ed8b2255d288c7a">Recipe and images sourced from Hello Fresh</a>
+    <p>Dan dan noodles is a dish originating from Szechuan cuisine. Its ingredients traditionally include spicy sauce, vegetables, mustard stems, Szechuan pepper, pork, scallions, chili oil, and noodles. Western styles of dan dan noodles sometimes substitute the spicy sauce with peanut butter or sesame paste.</p>
+    <h3>Ingredients</h3>
+    <ul>
+      <li>Scallions
+      <li>Coleslaw Mix
+      <li>Sesame Seeds
+      <li>Peanut Butter
+      <li>Chicken Stock Concentrate
+      <li>Chili Flakes
+      <li>Garlic
+      <li>Shrimp
+      <li>Szechuan Paste
+      <li>Pork Ramen Stock Concentrate
+      <li>Ramen Noodles
+    </ul>
+  </body>
+</html>
