@@ -10,5 +10,5 @@ Source links are provided. Built while following [The Odin
 Project's](https://www.theodinproject.com) HTML foundations course.
 
 ## Links
- - [Recipe link](joshjyu.github.io/odin-recipes)
+ - [Recipe link](https://joshjyu.github.io/odin-recipes/)
  - [The Odin Project recipe assignment](https://www.theodinproject.com/lessons/foundations-recipes)
