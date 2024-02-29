@@ -1,2 +1,4 @@
-# ignore all ~ backup files
+# ignore ~ backup files
 *~
+# ignore # unsaved files
+#*
