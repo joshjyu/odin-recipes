@@ -1,0 +1,32 @@
+/* style.css */
+
+body {
+    background-color: rgb(216,222,233,0.5);
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.title-container,
+.subsection-container {
+    text-align: left;
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+div .header {
+    font-family: "Courier New", Monaco, Monospace;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 36px;
+}
+
+.section-title {
+    font-size: 26px;
+}
+
+.title-image {
+    height: auto;
+    width: 40%;
+}
