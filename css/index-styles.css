@@ -1,0 +1,44 @@
+/* index-styles.css */
+
+body {
+    background-color: #d8dee9;
+}
+
+.main-container {
+    background-color: #eceff4;
+    margin: 3em auto;
+    max-width: 25%;
+    padding: 5em 10em;
+    border-radius: 8px;
+    box-shadow: rgba(184, 194, 215, 0.25) 0px 6px 8px;
+}
+
+.title-container,
+.subsection-container {
+    font-family: Helvetica, Verdana, sans-serif;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.header {
+    font-family: "Courier New", Monaco, Monospace;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 36px;
+}
+
+.section-title {
+    font-size: 26px;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+
+.title-image {
+    height: auto;
+    width: 85%;
+}
